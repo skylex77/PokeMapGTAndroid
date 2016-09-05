@@ -34,23 +34,10 @@ A native Android client built with https://github.com/AHAAAAAAA/PokemonGo-Map
 
 screenshots from @linkout @mike @z14942744 @kyr0 @rancor
 
-### **Slack invites are now restricted to contributors only. Please comment your email when you submit a PR and we will send you an invite.**
 
 # [RTFM](https://github.com/omkarmoghe/Pokemap/wiki)
 Please read the f***ing manual before opening an issue. :heart:
 
-[Contribute to the documentation!](https://github.com/omkarmoghe/Pokemap/issues/17)
-
-## [Building] (https://github.com/omkarmoghe/Pokemap/wiki/Building)
-Make sure you use the latest [android studio version 2.2 (canary builds)] (http://tools.android.com/download/studio/canary/latest) and have installed the latest versions of the build tools and support libraries in order to successfully compile and run the project. 
-
-# Contributing
-All PRs should go to the `dev` branch. `master` will be updated periodically with stable* releases.</str>
-
-Please read this to understand how this all works: https://www.reddit.com/r/pokemongodev/comments/4svl1o/guide_to_pokemon_go_server_responses/
-
-## Translations
-If you are contributing a PR related to language translations, please have other members of the community :thumbsup: your change.
 
 ## Reporting Bugs
 Please include a screenshot and instructions on how to recreate the bug you are reporting. If you have any LogCat stack traces, etc. please include those as well. **Use the search bar to make sure you are not creating duplicate issues. If your bug has already been reported, feel free to comment with additional info.**
